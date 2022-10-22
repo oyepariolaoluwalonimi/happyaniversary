@@ -6,7 +6,7 @@ function boddy(){
         alert("Welcome My one and only girlfriend, Please notice all the javascript i used(crying emoji), it wasnt easy. I sha used like 3 nights to do it and test it to be sure i didnt make mistakes")
     }
     else{
-        document.write("invalid girlfriend😂😂")
+        document.write("invalid girlfriend😂😂...... Reload to try again")
         return false
     }
 }
