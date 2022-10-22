@@ -1,0 +1,10 @@
+.pars{
+    height: 40vh;
+    width: 60%;
+    background: rgba(5, 5, 5, 0.946);
+    color: white;
+    text-align: center;
+    line-height: 280px;
+    border-radius: 3px;
+    border: 10px solid rgb(0, 0, 0);
+}
